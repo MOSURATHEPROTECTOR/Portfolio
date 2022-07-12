@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box
+}
+
+.navbar {
+    background-color: rgb(184, 118, 194);
+    Display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.links {
+    color: antiquewhite;
+}
